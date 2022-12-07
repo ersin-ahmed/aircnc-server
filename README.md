@@ -1,6 +1,4 @@
-# contact-manager-mern-server
-
-The Frontend Code is here: https://github.com/ersin-ahmed/contact-manager-mern-client
+# aircnc-server
 
 The server side was built using Node with Express and MongoDb with Mongoose,
 
@@ -12,4 +10,5 @@ express,
 express-async-handler,
 jsonwebtoken,
 mongoose
+
 # aircnc-server
